@@ -1,0 +1,204 @@
+{
+  "schemes": [
+    {
+      "schemeName": "National Health Mission",
+      "schemeCategory": "Health",
+      "launchDate": "2005-04-12",
+      "targetAudience": "Rural Population",
+      "budgetAllocation": 1200000000,
+      "description": "A mission to improve healthcare infrastructure in rural areas.",
+      "expectedImpact": 85,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Sarva Shiksha Abhiyan",
+      "schemeCategory": "Education",
+      "launchDate": "2001-11-20",
+      "targetAudience": "Children in Rural Areas",
+      "budgetAllocation": 2500000000,
+      "description": "A program aimed at universalizing elementary education.",
+      "expectedImpact": 90,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "PMAY (Pradhan Mantri Awas Yojana)",
+      "schemeCategory": "Housing",
+      "launchDate": "2015-06-01",
+      "targetAudience": "Low-Income Families",
+      "budgetAllocation": 5000000000,
+      "description": "Providing affordable housing for the urban poor.",
+      "expectedImpact": 80,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+      "schemeCategory": "Employment",
+      "launchDate": "2005-02-02",
+      "targetAudience": "Rural Poor",
+      "budgetAllocation": 9000000000,
+      "description": "A scheme aimed at providing employment to rural households.",
+      "expectedImpact": 78,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Digital India Programme",
+      "schemeCategory": "Technology",
+      "launchDate": "2015-07-01",
+      "targetAudience": "Urban and Rural Population",
+      "budgetAllocation": 14000000000,
+      "description": "Transforming India into a digitally empowered society.",
+      "expectedImpact": 92,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "National Skill Development Mission",
+      "schemeCategory": "Employment",
+      "launchDate": "2015-07-15",
+      "targetAudience": "Youth and Women",
+      "budgetAllocation": 1000000000,
+      "description": "Enhancing skill development through various training programs.",
+      "expectedImpact": 70,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Pradhan Mantri Jan Dhan Yojana",
+      "schemeCategory": "Finance",
+      "launchDate": "2014-08-28",
+      "targetAudience": "Unbanked Population",
+      "budgetAllocation": 2500000000,
+      "description": "Financial inclusion initiative to provide banking services to every household.",
+      "expectedImpact": 85,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Ayushman Bharat",
+      "schemeCategory": "Health",
+      "launchDate": "2018-09-23",
+      "targetAudience": "Low-Income Families",
+      "budgetAllocation": 10000000000,
+      "description": "A health insurance scheme for underprivileged families.",
+      "expectedImpact": 90,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+      "schemeCategory": "Urban Development",
+      "launchDate": "2015-06-25",
+      "targetAudience": "Urban Local Bodies",
+      "budgetAllocation": 5000000000,
+      "description": "Improving urban infrastructure and making cities more livable.",
+      "expectedImpact": 80,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Make in India",
+      "schemeCategory": "Industrial Development",
+      "launchDate": "2014-09-25",
+      "targetAudience": "Industries and Manufacturers",
+      "budgetAllocation": 8000000000,
+      "description": "Encouraging manufacturing and innovation in India.",
+      "expectedImpact": 75,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "schemeCategory": "Agriculture",
+      "launchDate": "2019-12-01",
+      "targetAudience": "Small and Marginal Farmers",
+      "budgetAllocation": 3000000000,
+      "description": "Direct financial assistance to farmers.",
+      "expectedImpact": 80,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "National Rural Livelihood Mission (NRLM)",
+      "schemeCategory": "Livelihood",
+      "launchDate": "2011-06-25",
+      "targetAudience": "Rural Women and Farmers",
+      "budgetAllocation": 1500000000,
+      "description": "Empowering rural women and improving livelihoods.",
+      "expectedImpact": 80,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Swachh Bharat Abhiyan",
+      "schemeCategory": "Sanitation",
+      "launchDate": "2014-10-02",
+      "targetAudience": "Rural and Urban Population",
+      "budgetAllocation": 9000000000,
+      "description": "A nationwide cleanliness drive to promote sanitation.",
+      "expectedImpact": 88,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Stand Up India Scheme",
+      "schemeCategory": "Finance",
+      "launchDate": "2016-04-05",
+      "targetAudience": "Women and SC/ST Entrepreneurs",
+      "budgetAllocation": 2000000000,
+      "description": "Providing loans to women and SC/ST entrepreneurs.",
+      "expectedImpact": 75,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Ujjwala Yojana",
+      "schemeCategory": "Energy",
+      "launchDate": "2016-05-01",
+      "targetAudience": "Below Poverty Line Families",
+      "budgetAllocation": 3000000000,
+      "description": "Providing free LPG connections to poor families.",
+      "expectedImpact": 70,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "schemeCategory": "Agriculture",
+      "launchDate": "2016-02-18",
+      "targetAudience": "Farmers",
+      "budgetAllocation": 4500000000,
+      "description": "Crop insurance scheme for farmers.",
+      "expectedImpact": 80,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Beti Bachao Beti Padhao",
+      "schemeCategory": "Social Welfare",
+      "launchDate": "2015-01-22",
+      "targetAudience": "Girls and Women",
+      "budgetAllocation": 7000000000,
+      "description": "Promoting gender equality and empowering women.",
+      "expectedImpact": 80,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Deendayal Antyodaya Yojana",
+      "schemeCategory": "Social Welfare",
+      "launchDate": "2015-09-25",
+      "targetAudience": "Poverty-Stricken Families",
+      "budgetAllocation": 3000000000,
+      "description": "Helping individuals escape poverty by providing skill development.",
+      "expectedImpact": 70,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Pradhan Mantri Ujjwala Yojana",
+      "schemeCategory": "Energy",
+      "launchDate": "2016-05-01",
+      "targetAudience": "Poor Women",
+      "budgetAllocation": 5000000000,
+      "description": "Providing free LPG connections to poor women.",
+      "expectedImpact": 85,
+      "geographicCoverage": "National"
+    },
+    {
+      "schemeName": "Smart Cities Mission",
+      "schemeCategory": "Urban Development",
+      "launchDate": "2015-06-25",
+      "targetAudience": "Urban Residents",
+      "budgetAllocation": 10000000000,
+      "description": "Transforming cities into smart cities with better infrastructure.",
+      "expectedImpact": 75,
+      "geographicCoverage": "National"
+    }
+  ]
+}
