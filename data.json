@@ -1,156 +1,82 @@
-const data = {
-  schemesForGraphAndMap: [
-    {
-      schemeName: "National Health Mission",
-      schemeCategory: "Health",
-      launchDate: "2005-04-12",
-      targetAudience: "Rural Population",
-      budgetAllocation: 1200000000,
-      expectedImpact: 85,
-      geographicCoverage: "National",
-      visualizationType: "Map",
-      details: "Impact and coverage in rural areas across states"
-    },
-    {
-      schemeName: "Sarva Shiksha Abhiyan",
-      schemeCategory: "Education",
-      launchDate: "2001-11-20",
-      targetAudience: "Children in Rural Areas",
-      budgetAllocation: 2500000000,
-      expectedImpact: 90,
-      geographicCoverage: "National",
-      visualizationType: "Graph/Map",
-      details: "Impact in various states, especially in rural regions"
-    },
-    {
-      schemeName: "PMAY (Pradhan Mantri Awas Yojana)",
-      schemeCategory: "Housing",
-      launchDate: "2015-06-01",
-      targetAudience: "Low-Income Families",
-      budgetAllocation: 5000000000,
-      expectedImpact: 80,
-      geographicCoverage: "National",
-      visualizationType: "Map",
-      details: "Statewise coverage of affordable housing units"
-    },
-    {
-      schemeName: "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
-      schemeCategory: "Employment",
-      launchDate: "2005-02-02",
-      targetAudience: "Rural Poor",
-      budgetAllocation: 9000000000,
-      expectedImpact: 78,
-      geographicCoverage: "National",
-      visualizationType: "Graph",
-      details: "Employment distribution in rural areas across different states"
-    },
-    {
-      schemeName: "Ayushman Bharat",
-      schemeCategory: "Health",
-      launchDate: "2018-09-23",
-      targetAudience: "Low-Income Families",
-      budgetAllocation: 10000000000,
-      expectedImpact: 90,
-      geographicCoverage: "National",
-      visualizationType: "Graph/Map",
-      details: "Health coverage and insurance penetration by states"
-    },
-    {
-      schemeName: "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
-      schemeCategory: "Agriculture",
-      launchDate: "2019-12-01",
-      targetAudience: "Small and Marginal Farmers",
-      budgetAllocation: 3000000000,
-      expectedImpact: 80,
-      geographicCoverage: "National",
-      visualizationType: "Map",
-      details: "Statewide distribution of financial assistance to farmers"
-    },
-    {
-      schemeName: "Swachh Bharat Abhiyan",
-      schemeCategory: "Sanitation",
-      launchDate: "2014-10-02",
-      targetAudience: "Rural and Urban Population",
-      budgetAllocation: 9000000000,
-      expectedImpact: 88,
-      geographicCoverage: "National",
-      visualizationType: "Map",
-      details: "Cleanliness coverage and sanitation facilities by states"
-    },
-    {
-      schemeName: "Stand Up India Scheme",
-      schemeCategory: "Finance",
-      launchDate: "2016-04-05",
-      targetAudience: "Women and SC/ST Entrepreneurs",
-      budgetAllocation: 2000000000,
-      expectedImpact: 75,
-      geographicCoverage: "National",
-      visualizationType: "Graph/Map",
-      details: "Distribution of loans to women and SC/ST entrepreneurs across states"
-    },
-    {
-      schemeName: "Ujjwala Yojana",
-      schemeCategory: "Energy",
-      launchDate: "2016-05-01",
-      targetAudience: "Below Poverty Line Families",
-      budgetAllocation: 3000000000,
-      expectedImpact: 70,
-      geographicCoverage: "National",
-      visualizationType: "Map",
-      details: "LPG connection distribution to rural households by state"
-    },
-    {
-      schemeName: "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
-      schemeCategory: "Agriculture",
-      launchDate: "2016-02-18",
-      targetAudience: "Farmers",
-      budgetAllocation: 5000000000,
-      expectedImpact: 85,
-      geographicCoverage: "National",
-      visualizationType: "Graph",
-      details: "Impact of crop insurance and compensation distribution by state"
-    }
-  ]
-};
-
-// Categorizing the data
-const categorizedData = {
-  graph: [],
-  map: [],
-  graphAndMap: []
-};
-
-// Categorizing schemes based on visualization type
-data.schemesForGraphAndMap.forEach(scheme => {
-  if (scheme.visualizationType === "Graph") {
-    categorizedData.graph.push(scheme);
-  } else if (scheme.visualizationType === "Map") {
-    categorizedData.map.push(scheme);
-  } else if (scheme.visualizationType === "Graph/Map") {
-    categorizedData.graphAndMap.push(scheme);
+[
+  {
+    "name": "PM-KISAN",
+    "category": "Agriculture",
+    "audience": "Farmers",
+    "budget": "75000",
+    "coverage": "Pan India",
+    "monthlyImpact": [5000, 5200, 5300, 5400, 5500, 5700, 5800, 6000, 6100, 6200, 6300, 6500]
+  },
+  {
+    "name": "Ayushman Bharat",
+    "category": "Health",
+    "audience": "Low Income",
+    "budget": "64000",
+    "coverage": "Pan India",
+    "monthlyImpact": [2000, 2200, 2300, 2400, 2500, 2700, 2800, 2900, 3100, 3200, 3300, 3400]
+  },
+  {
+    "name": "Beti Bachao Beti Padhao",
+    "category": "Women Empowerment",
+    "audience": "Girls",
+    "budget": "3000",
+    "coverage": "Selected Districts",
+    "monthlyImpact": [500, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1050, 1100]
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "Employment",
+    "audience": "Rural Population",
+    "budget": "98000",
+    "coverage": "Pan India",
+    "monthlyImpact": [8000, 8200, 8500, 8700, 8800, 9000, 9100, 9200, 9300, 9400, 9500, 9600]
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "category": "Rural Development",
+    "audience": "Economically Weaker Section",
+    "budget": "25000",
+    "coverage": "Pan India",
+    "monthlyImpact": [2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, 3100]
+  },
+  {
+    "name": "Startup India",
+    "category": "Entrepreneurship",
+    "audience": "Young Entrepreneurs",
+    "budget": "10000",
+    "coverage": "Urban & Semi-Urban",
+    "monthlyImpact": [1000, 1100, 1200, 1300, 1500, 1600, 1700, 1800, 1900, 1950, 2000, 2100]
+  },
+  {
+    "name": "Digital India",
+    "category": "Technology",
+    "audience": "Citizens",
+    "budget": "20000",
+    "coverage": "Pan India",
+    "monthlyImpact": [1800, 1900, 2000, 2200, 2300, 2400, 2500, 2600, 2700, 2750, 2800, 2900]
+  },
+  {
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "category": "Welfare",
+    "audience": "BPL Women",
+    "budget": "15000",
+    "coverage": "Pan India",
+    "monthlyImpact": [700, 750, 800, 850, 900, 950, 1000, 1100, 1150, 1200, 1250, 1300]
+  },
+  {
+    "name": "PM Vaya Vandana Yojana",
+    "category": "Pension",
+    "audience": "Senior Citizens",
+    "budget": "2000",
+    "coverage": "Pan India",
+    "monthlyImpact": [400, 420, 440, 460, 480, 500, 520, 540, 560, 580, 600, 620]
+  },
+  {
+    "name": "National Education Policy Implementation",
+    "category": "Education",
+    "audience": "Students",
+    "budget": "30000",
+    "coverage": "Pan India",
+    "monthlyImpact": [2500, 2600, 2700, 2800, 2900, 2950, 3000, 3100, 3200, 3300, 3400, 3500]
   }
-});
-
-// Output categorized data and details for each scheme
-console.log("Categorized Data:", categorizedData);
-
-// To access and display details for each scheme:
-
-const displaySchemeDetails = (scheme) => {
-  return `
-    Scheme Name: ${scheme.schemeName}
-    Scheme Category: ${scheme.schemeCategory}
-    Launch Date: ${scheme.launchDate}
-    Target Audience: ${scheme.targetAudience}
-    Budget Allocation: ₹${scheme.budgetAllocation.toLocaleString()}
-    Expected Impact: ${scheme.expectedImpact}%
-    Geographic Coverage: ${scheme.geographicCoverage}
-    Visualization Type: ${scheme.visualizationType}
-    Details: ${scheme.details}
-  `;
-};
-
-// Display all schemes with their details
-data.schemesForGraphAndMap.forEach(scheme => {
-  console.log(displaySchemeDetails(scheme));
-});
+]
