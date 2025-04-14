@@ -1,82 +1,101 @@
 [
   {
-    "name": "PM-KISAN",
+    "name": "PMFBY",
     "category": "Agriculture",
     "audience": "Farmers",
-    "budget": "75000",
-    "coverage": "Pan India",
-    "monthlyImpact": [5000, 5200, 5100, 5300, 5200, 5400, 5500, 5400, 5600, 5500, 5700, 5800]
+    "budget": "₹5,000 Crores",
+    "impact": "Improved Crop Insurance Coverage",
+    "coverage": "Nationwide",
+    "stateImpact": [
+      {
+        "state": "Uttar Pradesh",
+        "latitude": 27.1056,
+        "longitude": 82.9376,
+        "impact": "Increased crop yield by 15%"
+      },
+      {
+        "state": "Maharashtra",
+        "latitude": 19.7515,
+        "longitude": 75.7139,
+        "impact": "Decreased insurance premium by 10%"
+      },
+      {
+        "state": "Punjab",
+        "latitude": 31.1471,
+        "longitude": 75.3412,
+        "impact": "Enhanced irrigation facilities for farmers"
+      },
+      {
+        "state": "Rajasthan",
+        "latitude": 27.0238,
+        "longitude": 74.2179,
+        "impact": "Farmers gained better financial stability"
+      },
+      {
+        "state": "Gujarat",
+        "latitude": 22.2587,
+        "longitude": 71.1924,
+        "impact": "Reduction in crop loss due to weather conditions"
+      }
+    ],
+    "monthlyImpact": [50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105]
   },
   {
-    "name": "Ayushman Bharat",
-    "category": "Health",
-    "audience": "Low Income",
-    "budget": "64000",
-    "coverage": "Pan India",
-    "monthlyImpact": [2000, 2200, 2100, 2300, 2400, 2200, 2500, 2400, 2600, 2500, 2700, 2800]
+    "name": "Fasal Bima Yojana",
+    "category": "Agriculture",
+    "audience": "Farmers",
+    "budget": "₹3,000 Crores",
+    "impact": "Comprehensive Crop Insurance",
+    "coverage": "Nationwide",
+    "stateImpact": [
+      {
+        "state": "Madhya Pradesh",
+        "latitude": 23.4730,
+        "longitude": 77.9477,
+        "impact": "Reduced crop insurance claims by 20%"
+      },
+      {
+        "state": "Bihar",
+        "latitude": 25.0968,
+        "longitude": 85.3131,
+        "impact": "Increased farmer enrollment by 10%"
+      },
+      {
+        "state": "Tamil Nadu",
+        "latitude": 11.1271,
+        "longitude": 78.6569,
+        "impact": "Improved disaster relief for crops"
+      }
+    ],
+    "monthlyImpact": [40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95]
   },
   {
-    "name": "Beti Bachao Beti Padhao",
-    "category": "Women Empowerment",
-    "audience": "Girls",
-    "budget": "3000",
-    "coverage": "Selected Districts",
-    "monthlyImpact": [500, 550, 600, 580, 650, 700, 750, 720, 800, 850, 900, 950]
-  },
-  {
-    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
-    "category": "Employment",
-    "audience": "Rural Population",
-    "budget": "98000",
-    "coverage": "Pan India",
-    "monthlyImpact": [8000, 8200, 8100, 8500, 8400, 8600, 8800, 8700, 8900, 9200, 9100, 9300]
-  },
-  {
-    "name": "Pradhan Mantri Awas Yojana (PMAY)",
-    "category": "Rural Development",
-    "audience": "Economically Weaker Section",
-    "budget": "25000",
-    "coverage": "Pan India",
-    "monthlyImpact": [2000, 2100, 2200, 2300, 2400, 2250, 2500, 2600, 2700, 2650, 3000, 3100]
-  },
-  {
-    "name": "Startup India",
-    "category": "Entrepreneurship",
-    "audience": "Young Entrepreneurs",
-    "budget": "10000",
-    "coverage": "Urban & Semi-Urban",
-    "monthlyImpact": [1000, 1100, 1200, 1150, 1300, 1400, 1350, 1500, 1600, 1550, 1700, 1800]
-  },
-  {
-    "name": "Digital India",
-    "category": "Technology",
-    "audience": "Citizens",
-    "budget": "20000",
-    "coverage": "Pan India",
-    "monthlyImpact": [1800, 1900, 1850, 2000, 2100, 2200, 2100, 2400, 2300, 2350, 2500, 2600]
-  },
-  {
-    "name": "Pradhan Mantri Ujjwala Yojana",
-    "category": "Welfare",
-    "audience": "BPL Women",
-    "budget": "15000",
-    "coverage": "Pan India",
-    "monthlyImpact": [700, 750, 720, 800, 850, 800, 950, 900, 1000, 950, 1050, 1100]
-  },
-  {
-    "name": "PM Vaya Vandana Yojana",
-    "category": "Pension",
-    "audience": "Senior Citizens",
-    "budget": "2000",
-    "coverage": "Pan India",
-    "monthlyImpact": [400, 420, 430, 440, 450, 460, 470, 480, 490, 500, 510, 520]
-  },
-  {
-    "name": "National Education Policy Implementation",
-    "category": "Education",
-    "audience": "Students",
-    "budget": "30000",
-    "coverage": "Pan India",
-    "monthlyImpact": [2500, 2600, 2700, 2600, 2800, 2900, 2850, 3000, 3100, 3000, 3200, 3300]
+    "name": "Atal Mission for Rejuvenation and Urban Transformation",
+    "category": "Urban Development",
+    "audience": "Urban Population",
+    "budget": "₹12,000 Crores",
+    "impact": "Improved Urban Infrastructure",
+    "coverage": "Urban Areas",
+    "stateImpact": [
+      {
+        "state": "Delhi",
+        "latitude": 28.6139,
+        "longitude": 77.2090,
+        "impact": "Upgraded public transport facilities"
+      },
+      {
+        "state": "Karnataka",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "impact": "Developed new smart city projects"
+      },
+      {
+        "state": "West Bengal",
+        "latitude": 22.5726,
+        "longitude": 88.3639,
+        "impact": "Better water supply systems in Kolkata"
+      }
+    ],
+    "monthlyImpact": [60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115]
   }
 ]
