@@ -14,7 +14,8 @@
       }
     ],
     "impact": "Women empowerment, fostering digital literacy and providing financial support to students.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Navachar Yojana",
@@ -31,7 +32,8 @@
       }
     ],
     "impact": "Enhances entrepreneurs' welfare, promotes infrastructure development, and boosts employment opportunities.",
-    "impactPredictionStatus": "unsuccessful"
+    "impactPredictionStatus": "unsuccessful",
+    "impactResult": "Impact prediction failed"
   },
   {
     "name": "Youth Empowerment Program",
@@ -48,7 +50,8 @@
       }
     ],
     "impact": "Empowering youth with vocational training, skill development, and employment readiness.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Clean India Campaign",
@@ -65,7 +68,8 @@
       }
     ],
     "impact": "Promoting environmental cleanliness, awareness, and waste management to reduce pollution and increase sustainability.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Skill India Initiative",
@@ -82,7 +86,8 @@
       }
     ],
     "impact": "Focuses on providing skills training, certifications, and entrepreneurship support to create job-ready professionals.",
-    "impactPredictionStatus": "unsuccessful"
+    "impactPredictionStatus": "unsuccessful",
+    "impactResult": "Impact prediction failed"
   },
   {
     "name": "Women in Tech Program",
@@ -99,7 +104,8 @@
       }
     ],
     "impact": "Encourages women to pursue careers in technology, providing mentorship, scholarships, and industry exposure.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Rural Connectivity Project",
@@ -116,7 +122,8 @@
       }
     ],
     "impact": "Improves connectivity and accessibility to rural areas, enhancing transportation and communication infrastructure.",
-    "impactPredictionStatus": "unsuccessful"
+    "impactPredictionStatus": "unsuccessful",
+    "impactResult": "Impact prediction failed"
   },
   {
     "name": "Atmanirbhar Bharat Scheme",
@@ -133,7 +140,8 @@
       }
     ],
     "impact": "Encourages self-reliance through promoting indigenous industries, creating jobs, and fostering innovation.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Swachh Bharat Mission",
@@ -150,7 +158,8 @@
       }
     ],
     "impact": "Focuses on sanitation, improving public health, and promoting cleanliness across urban and rural areas.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Digital India Campaign",
@@ -167,7 +176,8 @@
       }
     ],
     "impact": "Aims to transform India into a digitally empowered society by enhancing internet access, e-governance, and digital literacy.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "National Rural Health Mission",
@@ -184,7 +194,8 @@
       }
     ],
     "impact": "Provides essential healthcare services, focuses on reducing maternal and child mortality, and improving health standards in rural areas.",
-    "impactPredictionStatus": "unsuccessful"
+    "impactPredictionStatus": "unsuccessful",
+    "impactResult": "Impact prediction failed"
   },
   {
     "name": "PMAY - Pradhan Mantri Awas Yojana",
@@ -201,7 +212,8 @@
       }
     ],
     "impact": "Aims to provide affordable housing for all by promoting the construction of low-cost housing units for economically weaker sections.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Jan Dhan Yojana",
@@ -218,7 +230,8 @@
       }
     ],
     "impact": "Promotes financial inclusion by providing access to banking services for the unbanked population.",
-    "impactPredictionStatus": "successful"
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved"
   },
   {
     "name": "Farmers' Welfare Scheme",
@@ -235,7 +248,7 @@
       }
     ],
     "impact": "Supports farmers by providing subsidies, improving agricultural productivity, and offering crop insurance.",
-    "impactPredictionStatus": "unsuccessful"
+    "impactPredictionStatus": "unsuccessful",
+    "impactResult": "Impact prediction failed"
   }
 ]
-
