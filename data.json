@@ -5,7 +5,20 @@
     "audience": "Students",
     "budget": "₹55000 Crores",
     "coverage": "Selected States",
-    "monthlyImpact": [83, 84, 94, 100, 16, 94, 21, 40, 107, 65, 20, 59],
+    "monthlyImpact": [
+      { "month": "January", "impact": 83 },
+      { "month": "February", "impact": 84 },
+      { "month": "March", "impact": 94 },
+      { "month": "April", "impact": 100 },
+      { "month": "May", "impact": 16 },
+      { "month": "June", "impact": 94 },
+      { "month": "July", "impact": 21 },
+      { "month": "August", "impact": 40 },
+      { "month": "September", "impact": 107 },
+      { "month": "October", "impact": 65 },
+      { "month": "November", "impact": 20 },
+      { "month": "December", "impact": 59 }
+    ],
     "stateImpact": [
       {
         "name": "Punjab",
@@ -32,7 +45,20 @@
     "audience": "Entrepreneurs",
     "budget": "₹16864 Crores",
     "coverage": "State-specific",
-    "monthlyImpact": [13, 11, 53, 34, 97, 95, 18, 38, 22, 95, 31, 31],
+    "monthlyImpact": [
+      { "month": "January", "impact": 13 },
+      { "month": "February", "impact": 11 },
+      { "month": "March", "impact": 53 },
+      { "month": "April", "impact": 34 },
+      { "month": "May", "impact": 97 },
+      { "month": "June", "impact": 95 },
+      { "month": "July", "impact": 18 },
+      { "month": "August", "impact": 38 },
+      { "month": "September", "impact": 22 },
+      { "month": "October", "impact": 95 },
+      { "month": "November", "impact": 31 },
+      { "month": "December", "impact": 31 }
+    ],
     "stateImpact": [
       {
         "name": "Karnataka",
@@ -59,7 +85,20 @@
     "audience": "Young Adults",
     "budget": "₹25000 Crores",
     "coverage": "Pan India",
-    "monthlyImpact": [50, 60, 70, 80, 40, 45, 38, 55, 73, 65, 82, 90],
+    "monthlyImpact": [
+      { "month": "January", "impact": 50 },
+      { "month": "February", "impact": 60 },
+      { "month": "March", "impact": 70 },
+      { "month": "April", "impact": 80 },
+      { "month": "May", "impact": 40 },
+      { "month": "June", "impact": 45 },
+      { "month": "July", "impact": 38 },
+      { "month": "August", "impact": 55 },
+      { "month": "September", "impact": 73 },
+      { "month": "October", "impact": 65 },
+      { "month": "November", "impact": 82 },
+      { "month": "December", "impact": 90 }
+    ],
     "stateImpact": [
       {
         "name": "Maharashtra",
@@ -79,113 +118,5 @@
     "successMetrics": ["Number of youth placed in jobs", "Skills development completion rate"],
     "governmentSchemeNumber": "SD-7890",
     "partnerships": ["Infosys", "NIIT"]
-  },
-  {
-    "name": "Clean India Campaign",
-    "category": "Environmental Sustainability",
-    "audience": "General Public",
-    "budget": "₹30000 Crores",
-    "coverage": "National",
-    "monthlyImpact": [200, 250, 210, 220, 230, 240, 260, 270, 250, 280, 290, 300],
-    "stateImpact": [
-      {
-        "name": "Uttar Pradesh",
-        "latitude": 27.1053,
-        "longitude": 79.0582
-      }
-    ],
-    "impact": "Promoting environmental cleanliness, awareness, and waste management to reduce pollution and increase sustainability.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved",
-    "additionalImpact": "Increases public participation in cleanliness drives, improves waste management infrastructure, and reduces plastic usage across urban and rural areas.",
-    "duration": "Ongoing",
-    "collaborations": ["Local Municipalities", "NGOs"],
-    "technologyInvolved": ["Waste Management Apps", "Digital Awareness Campaigns"],
-    "regionFocus": ["Delhi", "Lucknow", "Varanasi"],
-    "feedbackMechanism": "Surveys, Public Interaction",
-    "successMetrics": ["Amount of waste collected", "Reduction in plastic use"],
-    "governmentSchemeNumber": "GC-9012",
-    "partnerships": ["Unilever", "Coca-Cola"]
-  },
-  {
-    "name": "Skill India Initiative",
-    "category": "Education and Training",
-    "audience": "Youth and Professionals",
-    "budget": "₹22000 Crores",
-    "coverage": "Nationwide",
-    "monthlyImpact": [120, 130, 140, 110, 125, 115, 140, 150, 160, 175, 180, 190],
-    "stateImpact": [
-      {
-        "name": "West Bengal",
-        "latitude": 22.9868,
-        "longitude": 87.855
-      }
-    ],
-    "impact": "Focuses on providing skills training, certifications, and entrepreneurship support to create job-ready professionals.",
-    "impactPredictionStatus": "unsuccessful",
-    "impactResult": "Impact prediction failed",
-    "additionalImpact": "Encourages lifelong learning and re-skilling among professionals, especially in underrepresented sectors like AI and robotics.",
-    "duration": "3 years",
-    "collaborations": ["Universities", "Private Training Centers"],
-    "technologyInvolved": ["Learning Management Systems", "AI-based Personalized Learning"],
-    "regionFocus": ["Kolkata", "Siliguri"],
-    "feedbackMechanism": "Post-Training Surveys",
-    "successMetrics": ["Increase in employment rate", "Improvement in skills certification numbers"],
-    "governmentSchemeNumber": "TL-1235",
-    "partnerships": ["Google", "Coursera"]
-  },
-  {
-    "name": "Rural Digital Literacy Program",
-    "category": "Education and Digital Literacy",
-    "audience": "Rural Population",
-    "budget": "₹12000 Crores",
-    "coverage": "National",
-    "monthlyImpact": [40, 50, 45, 60, 55, 70, 80, 75, 65, 90, 95, 100],
-    "stateImpact": [
-      {
-        "name": "Bihar",
-        "latitude": 25.0961,
-        "longitude": 85.3131
-      }
-    ],
-    "impact": "Providing digital education to rural populations, with a focus on enhancing digital literacy and skills for better employability.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved",
-    "additionalImpact": "Increases awareness of digital tools, improves access to online education, and supports government initiatives in rural development.",
-    "duration": "4 years",
-    "collaborations": ["BSNL", "State Government"],
-    "technologyInvolved": ["Online Learning Platforms", "Community Digital Training Centers"],
-    "regionFocus": ["Patna", "Gaya", "Muzaffarpur"],
-    "feedbackMechanism": "Community Feedback, Online Surveys",
-    "successMetrics": ["Digital Literacy Rate", "Rural Internet Adoption Rate"],
-    "governmentSchemeNumber": "DL-7864",
-    "partnerships": ["Intel", "Google India"]
-  },
-  {
-    "name": "Women Entrepreneurship Development Scheme",
-    "category": "Entrepreneurship and Business Development",
-    "audience": "Women Entrepreneurs",
-    "budget": "₹15000 Crores",
-    "coverage": "Pan India",
-    "monthlyImpact": [30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140],
-    "stateImpact": [
-      {
-        "name": "Tamil Nadu",
-        "latitude": 11.1271,
-        "longitude": 78.6569
-      }
-    ],
-    "impact": "Promoting entrepreneurship among women by providing financial support, training, and resources.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved",
-    "additionalImpact": "Creates a platform for women to showcase their entrepreneurial skills, empowering them to run businesses and create jobs.",
-    "duration": "5 years",
-    "collaborations": ["NABARD", "Women's Development Cells"],
-    "technologyInvolved": ["E-commerce Platforms", "Social Media Marketing Tools"],
-    "regionFocus": ["Chennai", "Coimbatore"],
-    "feedbackMechanism": "Surveys, Feedback Forms",
-    "successMetrics": ["Increase in women-owned businesses", "Growth in job creation"],
-    "governmentSchemeNumber": "WE-1236",
-    "partnerships": ["Amazon", "HDFC Bank"]
   }
 ]
