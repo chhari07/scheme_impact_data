@@ -9,8 +9,8 @@
     "stateImpact": [
       {
         "name": "Punjab",
-        "latitude": 27.2557,
-        "longitude": 84.7621
+        "latitude": 31.1471,
+        "longitude": 75.3412
       }
     ],
     "impact": "Women empowerment, fostering digital literacy and providing financial support to students.",
@@ -36,8 +36,8 @@
     "stateImpact": [
       {
         "name": "Karnataka",
-        "latitude": 13.7996,
-        "longitude": 68.4651
+        "latitude": 12.9716,
+        "longitude": 77.5946
       }
     ],
     "impact": "Enhances entrepreneurs' welfare, promotes infrastructure development, and boosts employment opportunities.",
@@ -133,5 +133,59 @@
     "successMetrics": ["Increase in employment rate", "Improvement in skills certification numbers"],
     "governmentSchemeNumber": "TL-1235",
     "partnerships": ["Google", "Coursera"]
+  },
+  {
+    "name": "Rural Digital Literacy Program",
+    "category": "Education and Digital Literacy",
+    "audience": "Rural Population",
+    "budget": "₹12000 Crores",
+    "coverage": "National",
+    "monthlyImpact": [40, 50, 45, 60, 55, 70, 80, 75, 65, 90, 95, 100],
+    "stateImpact": [
+      {
+        "name": "Bihar",
+        "latitude": 25.0961,
+        "longitude": 85.3131
+      }
+    ],
+    "impact": "Providing digital education to rural populations, with a focus on enhancing digital literacy and skills for better employability.",
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved",
+    "additionalImpact": "Increases awareness of digital tools, improves access to online education, and supports government initiatives in rural development.",
+    "duration": "4 years",
+    "collaborations": ["BSNL", "State Government"],
+    "technologyInvolved": ["Online Learning Platforms", "Community Digital Training Centers"],
+    "regionFocus": ["Patna", "Gaya", "Muzaffarpur"],
+    "feedbackMechanism": "Community Feedback, Online Surveys",
+    "successMetrics": ["Digital Literacy Rate", "Rural Internet Adoption Rate"],
+    "governmentSchemeNumber": "DL-7864",
+    "partnerships": ["Intel", "Google India"]
+  },
+  {
+    "name": "Women Entrepreneurship Development Scheme",
+    "category": "Entrepreneurship and Business Development",
+    "audience": "Women Entrepreneurs",
+    "budget": "₹15000 Crores",
+    "coverage": "Pan India",
+    "monthlyImpact": [30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140],
+    "stateImpact": [
+      {
+        "name": "Tamil Nadu",
+        "latitude": 11.1271,
+        "longitude": 78.6569
+      }
+    ],
+    "impact": "Promoting entrepreneurship among women by providing financial support, training, and resources.",
+    "impactPredictionStatus": "successful",
+    "impactResult": "Impact successfully achieved",
+    "additionalImpact": "Creates a platform for women to showcase their entrepreneurial skills, empowering them to run businesses and create jobs.",
+    "duration": "5 years",
+    "collaborations": ["NABARD", "Women's Development Cells"],
+    "technologyInvolved": ["E-commerce Platforms", "Social Media Marketing Tools"],
+    "regionFocus": ["Chennai", "Coimbatore"],
+    "feedbackMechanism": "Surveys, Feedback Forms",
+    "successMetrics": ["Increase in women-owned businesses", "Growth in job creation"],
+    "governmentSchemeNumber": "WE-1236",
+    "partnerships": ["Amazon", "HDFC Bank"]
   }
 ]
