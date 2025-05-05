@@ -15,7 +15,16 @@
     ],
     "impact": "Women empowerment, fostering digital literacy and providing financial support to students.",
     "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
+    "impactResult": "Impact successfully achieved",
+    "additionalImpact": "Promotes equal access to financial services, empowers female students to enter banking sectors, and increases awareness of insurance benefits among youth.",
+    "duration": "2 years",
+    "collaborations": ["State Education Department", "Private Banks"],
+    "technologyInvolved": ["Mobile Banking Apps", "Digital Payment Platforms"],
+    "regionFocus": ["Chandigarh", "Amritsar"],
+    "feedbackMechanism": "Online Surveys",
+    "successMetrics": ["Increase in women in banking jobs", "Growth in digital literacy among rural students"],
+    "governmentSchemeNumber": "GST-1234",
+    "partnerships": ["HDFC Bank", "Punjab National Bank"]
   },
   {
     "name": "Navachar Yojana",
@@ -33,7 +42,16 @@
     ],
     "impact": "Enhances entrepreneurs' welfare, promotes infrastructure development, and boosts employment opportunities.",
     "impactPredictionStatus": "unsuccessful",
-    "impactResult": "Impact prediction failed"
+    "impactResult": "Impact prediction failed",
+    "additionalImpact": "Focuses on promoting start-ups in rural and underserved areas, offering incubation, mentorship, and access to finance for aspiring entrepreneurs.",
+    "duration": "3 years",
+    "collaborations": ["Tech Parks", "Venture Capitalists"],
+    "technologyInvolved": ["Cloud Solutions", "AI-powered Business Analytics"],
+    "regionFocus": ["Bangalore", "Mysore"],
+    "feedbackMechanism": "Monthly Entrepreneur Meetings",
+    "successMetrics": ["Increase in rural start-ups", "Number of entrepreneurs accessing government schemes"],
+    "governmentSchemeNumber": "IN-4567",
+    "partnerships": ["TATA Consultancy Services", "Karnataka State Government"]
   },
   {
     "name": "Youth Empowerment Program",
@@ -51,7 +69,16 @@
     ],
     "impact": "Empowering youth with vocational training, skill development, and employment readiness.",
     "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
+    "impactResult": "Impact successfully achieved",
+    "additionalImpact": "Improves the employment rate by providing training in high-demand industries like technology, healthcare, and manufacturing, creating a more skilled workforce.",
+    "duration": "5 years",
+    "collaborations": ["Skill India Mission", "Private Skill Centers"],
+    "technologyInvolved": ["Virtual Training Platforms", "AR/VR for Skill Development"],
+    "regionFocus": ["Mumbai", "Pune", "Nagpur"],
+    "feedbackMechanism": "Online Feedback Forms",
+    "successMetrics": ["Number of youth placed in jobs", "Skills development completion rate"],
+    "governmentSchemeNumber": "SD-7890",
+    "partnerships": ["Infosys", "NIIT"]
   },
   {
     "name": "Clean India Campaign",
@@ -69,7 +96,16 @@
     ],
     "impact": "Promoting environmental cleanliness, awareness, and waste management to reduce pollution and increase sustainability.",
     "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
+    "impactResult": "Impact successfully achieved",
+    "additionalImpact": "Increases public participation in cleanliness drives, improves waste management infrastructure, and reduces plastic usage across urban and rural areas.",
+    "duration": "Ongoing",
+    "collaborations": ["Local Municipalities", "NGOs"],
+    "technologyInvolved": ["Waste Management Apps", "Digital Awareness Campaigns"],
+    "regionFocus": ["Delhi", "Lucknow", "Varanasi"],
+    "feedbackMechanism": "Surveys, Public Interaction",
+    "successMetrics": ["Amount of waste collected", "Reduction in plastic use"],
+    "governmentSchemeNumber": "GC-9012",
+    "partnerships": ["Unilever", "Coca-Cola"]
   },
   {
     "name": "Skill India Initiative",
@@ -82,173 +118,20 @@
       {
         "name": "West Bengal",
         "latitude": 22.9868,
-        "longitude": 87.8550
+        "longitude": 87.855
       }
     ],
     "impact": "Focuses on providing skills training, certifications, and entrepreneurship support to create job-ready professionals.",
     "impactPredictionStatus": "unsuccessful",
-    "impactResult": "Impact prediction failed"
-  },
-  {
-    "name": "Women in Tech Program",
-    "category": "Technology & Education",
-    "audience": "Women in STEM fields",
-    "budget": "₹10000 Crores",
-    "coverage": "Pan India",
-    "monthlyImpact": [30, 45, 50, 60, 70, 80, 40, 35, 65, 55, 45, 70],
-    "stateImpact": [
-      {
-        "name": "Delhi",
-        "latitude": 28.6139,
-        "longitude": 77.2090
-      }
-    ],
-    "impact": "Encourages women to pursue careers in technology, providing mentorship, scholarships, and industry exposure.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
-  },
-  {
-    "name": "Rural Connectivity Project",
-    "category": "Infrastructure and Rural Development",
-    "audience": "Rural Population",
-    "budget": "₹15000 Crores",
-    "coverage": "Rural Areas of India",
-    "monthlyImpact": [15, 20, 25, 18, 19, 22, 30, 35, 40, 45, 48, 50],
-    "stateImpact": [
-      {
-        "name": "Bihar",
-        "latitude": 25.0961,
-        "longitude": 85.3131
-      }
-    ],
-    "impact": "Improves connectivity and accessibility to rural areas, enhancing transportation and communication infrastructure.",
-    "impactPredictionStatus": "unsuccessful",
-    "impactResult": "Impact prediction failed"
-  },
-  {
-    "name": "Atmanirbhar Bharat Scheme",
-    "category": "Economic Development",
-    "audience": "Small and Medium Enterprises (SMEs)",
-    "budget": "₹20000 Crores",
-    "coverage": "Pan India",
-    "monthlyImpact": [40, 45, 50, 55, 60, 65, 75, 80, 85, 90, 100, 110],
-    "stateImpact": [
-      {
-        "name": "Uttar Pradesh",
-        "latitude": 26.8467,
-        "longitude": 80.9462
-      }
-    ],
-    "impact": "Encourages self-reliance through promoting indigenous industries, creating jobs, and fostering innovation.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
-  },
-  {
-    "name": "Swachh Bharat Mission",
-    "category": "Public Health",
-    "audience": "Urban and Rural Population",
-    "budget": "₹50000 Crores",
-    "coverage": "National",
-    "monthlyImpact": [100, 150, 130, 120, 110, 90, 115, 125, 135, 140, 150, 160],
-    "stateImpact": [
-      {
-        "name": "Tamil Nadu",
-        "latitude": 11.1276,
-        "longitude": 78.6569
-      }
-    ],
-    "impact": "Focuses on sanitation, improving public health, and promoting cleanliness across urban and rural areas.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
-  },
-  {
-    "name": "Digital India Campaign",
-    "category": "Technology and Digital Infrastructure",
-    "audience": "General Public",
-    "budget": "₹100000 Crores",
-    "coverage": "Nationwide",
-    "monthlyImpact": [250, 280, 300, 320, 350, 380, 400, 420, 450, 480, 500, 550],
-    "stateImpact": [
-      {
-        "name": "Andhra Pradesh",
-        "latitude": 15.9129,
-        "longitude": 79.7400
-      }
-    ],
-    "impact": "Aims to transform India into a digitally empowered society by enhancing internet access, e-governance, and digital literacy.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
-  },
-  {
-    "name": "National Rural Health Mission",
-    "category": "Healthcare",
-    "audience": "Rural Population",
-    "budget": "₹30000 Crores",
-    "coverage": "Rural Areas",
-    "monthlyImpact": [30, 40, 35, 50, 45, 55, 60, 65, 75, 80, 90, 100],
-    "stateImpact": [
-      {
-        "name": "Chhattisgarh",
-        "latitude": 21.2951,
-        "longitude": 81.8280
-      }
-    ],
-    "impact": "Provides essential healthcare services, focuses on reducing maternal and child mortality, and improving health standards in rural areas.",
-    "impactPredictionStatus": "unsuccessful",
-    "impactResult": "Impact prediction failed"
-  },
-  {
-    "name": "PMAY - Pradhan Mantri Awas Yojana",
-    "category": "Housing and Urban Development",
-    "audience": "Low-Income Families",
-    "budget": "₹100000 Crores",
-    "coverage": "Urban and Rural Areas",
-    "monthlyImpact": [100, 120, 130, 150, 160, 170, 180, 200, 210, 220, 240, 250],
-    "stateImpact": [
-      {
-        "name": "Madhya Pradesh",
-        "latitude": 23.2599,
-        "longitude": 77.4126
-      }
-    ],
-    "impact": "Aims to provide affordable housing for all by promoting the construction of low-cost housing units for economically weaker sections.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
-  },
-  {
-    "name": "Jan Dhan Yojana",
-    "category": "Financial Inclusion",
-    "audience": "Low-Income Individuals",
-    "budget": "₹6000 Crores",
-    "coverage": "Nationwide",
-    "monthlyImpact": [500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1100],
-    "stateImpact": [
-      {
-        "name": "Rajasthan",
-        "latitude": 27.0238,
-        "longitude": 74.2179
-      }
-    ],
-    "impact": "Promotes financial inclusion by providing access to banking services for the unbanked population.",
-    "impactPredictionStatus": "successful",
-    "impactResult": "Impact successfully achieved"
-  },
-  {
-    "name": "Farmers' Welfare Scheme",
-    "category": "Agriculture",
-    "audience": "Farmers",
-    "budget": "₹15000 Crores",
-    "coverage": "Rural India",
-    "monthlyImpact": [60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170],
-    "stateImpact": [
-      {
-        "name": "Punjab",
-        "latitude": 31.1471,
-        "longitude": 75.3412
-      }
-    ],
-    "impact": "Supports farmers by providing subsidies, improving agricultural productivity, and offering crop insurance.",
-    "impactPredictionStatus": "unsuccessful",
-    "impactResult": "Impact prediction failed"
+    "impactResult": "Impact prediction failed",
+    "additionalImpact": "Encourages lifelong learning and re-skilling among professionals, especially in underrepresented sectors like AI and robotics.",
+    "duration": "3 years",
+    "collaborations": ["Universities", "Private Training Centers"],
+    "technologyInvolved": ["Learning Management Systems", "AI-based Personalized Learning"],
+    "regionFocus": ["Kolkata", "Siliguri"],
+    "feedbackMechanism": "Post-Training Surveys",
+    "successMetrics": ["Increase in employment rate", "Improvement in skills certification numbers"],
+    "governmentSchemeNumber": "TL-1235",
+    "partnerships": ["Google", "Coursera"]
   }
 ]
